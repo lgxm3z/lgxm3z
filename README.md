@@ -8,7 +8,7 @@
 
 Like My Work?
 
-<a href="https://www.buymeacoffee.com/3gomesz"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=3gomesz&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/3gomesz"><img width="200px" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=3gomesz&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="3GOMESz's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=3GOMESz&bg_color=080a12&color=ffdb59&line=3bd8ff&point=FFFFFF&hide_border=true" /></a>
