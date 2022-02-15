@@ -6,7 +6,7 @@
   </div>
 </h3>
 
-Like My Work?
+Like My Work? 🙂👍
 
 <a href="https://www.buymeacoffee.com/3gomesz"><img width="200px" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=3gomesz&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff" /></a>
 
