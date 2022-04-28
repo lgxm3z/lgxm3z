@@ -1,10 +1,11 @@
-<h3 align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a70a9edf-b435-4e40-9f50-8f792d57a6be/dboex45-bff034ec-7558-45d6-b1d0-39adfc63ac93.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E3MGE5ZWRmLWI0MzUtNGU0MC05ZjUwLThmNzkyZDU3YTZiZVwvZGJvZXg0NS1iZmYwMzRlYy03NTU4LTQ1ZDYtYjFkMC0zOWFkZmM2M2FjOTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jUlee5Hou4mVvqshE1YEj0T1Ne5znUG729x5vx80oXA" width="110">
+<h2 align="center">
   <div>
-    Hello folks, I'm Gomes!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    Hello folks, I'm Gomes!<br/><br/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38"/>
+    <img src="https://emoji.gg/assets/emoji/9942-win11emoji-grin.png" width="38"/>
   </div>
-</h3>
+  <br/>
+</h2>
 
 <br/>
 
