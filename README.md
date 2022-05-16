@@ -14,7 +14,7 @@
 <br/>
 
 🔌ㅤContributions or community help:
-  > [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) <br/> Icons for Visual Studio Code
+  > [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) <br/> Icons for Visual Studio Code.
 
   > [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) </br> React hook library, ready to use, written in Typescript.
 
