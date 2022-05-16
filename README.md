@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
     <img src="https://emoji.gg/assets/emoji/9942-win11emoji-grin.png" width="28"/>
     <br/> <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=3gomesz&hide=stars&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=00000000&icon_color=58a6ff&text_color=FFFFFF&title_color=58a6ff"/>
+    <img width="100%" height="160px" src="https://github-readme-stats.vercel.app/api?username=3gomesz&hide=stars&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=00000000&icon_color=58a6ff&text_color=FFFFFF&title_color=58a6ff"/>
   </div>
 </h2>
 
