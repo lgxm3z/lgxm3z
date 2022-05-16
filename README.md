@@ -16,7 +16,9 @@
 🔌ㅤContributions or community help:
   > [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) <br/> Icons for Visual Studio Code
 
-  > [juliencrn/usehooks-ts](https://usehooks-ts.com/) </br> React hook library, ready to use, written in Typescript.
+  > [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) </br> React hook library, ready to use, written in Typescript.
+
+  > [tauri-apps/tauri](https://github.com/tauri-apps/tauri) </br> Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms.
 
 <br/>
 
