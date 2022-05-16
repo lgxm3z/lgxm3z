@@ -1,16 +1,22 @@
-<h2 align="center">
-  <div>
-    Hello folks, I'm Gomes!<br/><br/>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38"/>
-    <img src="https://emoji.gg/assets/emoji/9942-win11emoji-grin.png" width="38"/>
+
+<h2>
+  <div align="center">
+    Hello folks, I'm Gomes!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+    <img src="https://emoji.gg/assets/emoji/9942-win11emoji-grin.png" width="28"/>
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=3gomesz&hide=stars&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&bg_color=00000000&icon_color=58a6ff&text_color=FFFFFF&title_color=58a6ff"/>
   </div>
-  <br/>
 </h2>
 
+🌎ㅤPublic projects I've worked on:<br/>
+  > [rxn-units](https://github.com/Luffos/rxn-units) </br>Viewport units (vw, vh, vmin, vmax, percentage) + useUnits hook for React, React Native and Expo.
 <br/>
 
-📌ㅤPublic projects I've worked on:<br/>
- > [rxn-units](https://github.com/Luffos/rxn-units) </br>Viewport units (vw, vh, vmin, vmax, percentage) + useUnits hook for React, React Native and Expo.
+🔌ㅤContributions or community help:
+  > [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) <br/> Icons for Visual Studio Code
+
+  > [juliencrn/usehooks-ts](https://usehooks-ts.com/) </br> React hook library, ready to use, written in Typescript.
 
 <br/>
 
