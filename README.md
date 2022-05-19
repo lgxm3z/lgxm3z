@@ -14,6 +14,8 @@
 <br/>
 
 🔌ㅤContributions or community help:
+  > [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) </br> Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
+
   > [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) <br/> Icons for Visual Studio Code.
 
   > [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) </br> React hook library, ready to use, written in Typescript.
