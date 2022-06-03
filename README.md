@@ -10,7 +10,7 @@
 </h2>
 
 🌎ㅤPublic projects I've worked on:<br/>
-  > [rxn-units](https://github.com/Luffos/rxn-units) </br>Viewport units (vw, vh, vmin, vmax, percentage) + useUnits hook for React, React Native and Expo.
+  > [rxn-units](https://github.com/Luffos/rxn-units) </br>📐 Viewport units (vw, vh, vmin, vmax, percentage) + useUnits hook for React, React Native and Expo.
 <br/>
 
 🔌ㅤContributions or community help:
