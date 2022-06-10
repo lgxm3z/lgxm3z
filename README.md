@@ -24,7 +24,7 @@
 
 <br/>
 
-Like My Work? 🙂👍
+Like My Work / Did I helped you? 🙂👍
 
 <a href="https://www.buymeacoffee.com/3gomesz"><img width="170px" src="https://images.squarespace-cdn.com/content/v1/5cf6ec742e677c000119beb3/1566854989502-29SON0XHXO08IB6JQ671/68747470733a2f2f617a3734333730322e766f2e6d7365636e642e6e65742f63646e2f6b6f6669312e706e673f763d61.png"/></a>
 
