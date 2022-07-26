@@ -18,7 +18,7 @@
 🚧ㅤDemos:
   > [piano-demo-babylon-rxn](https://github.com/runtothedoor/piano-demo-babylon-rxn) </br>🎹 Cross Platform BabylonJS 3D Playabel Piano built with React and React Native.
 
- > [rotating-cube-demo-babylon-rxn](https://github.com/runtothedoor/rotating-cube-demo-babylon-rxn) </br>🧊 Cross Platform BabylonJS Simple 3D Cube built with React and React Native.
+ > [rotating-cube-demo-babylon-rxn](https://github.com/runtothedoor/rotating-cube-demo-babylon-rxn) </br>🟦🔄 Cross Platform BabylonJS Simple 3D Cube built with React and React Native.
 
 
 
