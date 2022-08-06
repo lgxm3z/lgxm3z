@@ -12,7 +12,7 @@
 🌎ㅤPublic projects I've worked on:<br/>
   > [rxn-units](https://github.com/Luffos/rxn-units) </br>📐 Viewport units (vw, vh, vmin, vmax, percentage) + useUnits hook for React, React Native and Expo.
 
-  > [rxn-inputlistener](https://github.com/Luffos/rxn-keylistener) </br>🎮 🖱️ ⌨️‎ ‎ Cross Platform Input Listener for React and React Native.
+  > [rxn-input](https://github.com/Luffos/rxn-input) </br>🎮 🖱️ ⌨️‎ ‎ Cross Platform Input Handler for React and React Native.
 <br/>
 
 🚧ㅤDemos:
