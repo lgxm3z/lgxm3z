@@ -25,15 +25,18 @@
 <br/>
 
 🔌ㅤContributions or community help:
-  > [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) </br> Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
+  > [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) </br> Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework. <br/> [#12537](https://github.com/BabylonJS/Babylon.js/pull/12537)
 
-  > [react-native-share/react-native-share](https://github.com/react-native-share/react-native-share) <br/> Social share, sending simple data to other apps.
+  > [react-native-share/react-native-share](https://github.com/react-native-share/react-native-share) <br/> Social share, sending simple data to other apps.<br/> [#1242](https://github.com/react-native-share/react-native-share/pull/1242)
 
-  > [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) <br/> Icons for Visual Studio Code.
+  > [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) <br/> Icons for Visual Studio Code. <br/> [#2234](https://github.com/vscode-icons/vscode-icons/pull/2234)
 
-  > [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) </br> React hook library, ready to use, written in Typescript.
+  > [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) </br> React hook library, ready to use, written in Typescript. <br/> [#147](https://github.com/juliencrn/usehooks-ts/pull/147)
 
-  > [tauri-apps/tauri](https://github.com/tauri-apps/tauri) </br> Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms.
+  > [tauri-apps/tauri](https://github.com/tauri-apps/tauri) </br> Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms. <br/> [#4107](https://github.com/tauri-apps/tauri/pull/4107)
+
+  > [barrsan/react-native-simple-image-cropper](https://github.com/barrsan/react-native-simple-image-cropper) <br/> No description, website, or topics provided.
+ <br/> [#34](https://github.com/barrsan/react-native-simple-image-cropper/pull/34)
 
 <br/>
 
