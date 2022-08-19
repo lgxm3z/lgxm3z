@@ -27,6 +27,8 @@
 🔌ㅤContributions or community help:
   > [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) </br> Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework. <br/> [#12537](https://github.com/BabylonJS/Babylon.js/pull/12537)
 
+ > [BabylonJS/BabylonReactNative](https://github.com/BabylonJS/BabylonReactNative) </br> Build React Native applications with the power of Babylon Native. <br/> [#449](https://github.com/BabylonJS/BabylonReactNative/pull/449)
+
   > [react-native-share/react-native-share](https://github.com/react-native-share/react-native-share) <br/> Social share, sending simple data to other apps.<br/> [#1242](https://github.com/react-native-share/react-native-share/pull/1242)
 
   > [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) <br/> Icons for Visual Studio Code. <br/> [#2234](https://github.com/vscode-icons/vscode-icons/pull/2234)
