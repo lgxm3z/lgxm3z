@@ -33,6 +33,8 @@
 
   > [react-native-share/react-native-share](https://github.com/react-native-share/react-native-share) <br/> Social share, sending simple data to other apps.<br/> [#1242](https://github.com/react-native-share/react-native-share/pull/1242)
 
+  > [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme) <br/> Get the Material Design icons into your VS Code. <br/> [#1672](https://github.com/PKief/vscode-material-icon-theme/pull/1672)
+
   > [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) <br/> Icons for Visual Studio Code. <br/> [#2234](https://github.com/vscode-icons/vscode-icons/pull/2234)
 
   > [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) </br> React hook library, ready to use, written in Typescript. <br/> [#147](https://github.com/juliencrn/usehooks-ts/pull/147)
