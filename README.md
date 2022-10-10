@@ -31,8 +31,6 @@
 
  > [BabylonJS/BabylonReactNative](https://github.com/BabylonJS/BabylonReactNative) </br> Build React Native applications with the power of Babylon Native. <br/> [#449](https://github.com/BabylonJS/BabylonReactNative/pull/449)
 
- > [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) </br> React hook library, ready to use, written in Typescript. <br/> [#147](https://github.com/juliencrn/usehooks-ts/pull/147)
-
  > [react-native-community/directory](https://github.com/react-native-community/directory) </br> A searchable and filterable directory of React Native libraries. <br/> [#880](https://github.com/react-native-community/directory/pull/880) [#882](https://github.com/react-native-community/directory/pull/882)
 
   > [react-native-share/react-native-share](https://github.com/react-native-share/react-native-share) <br/> Social share, sending simple data to other apps.<br/> [#1242](https://github.com/react-native-share/react-native-share/pull/1242)
