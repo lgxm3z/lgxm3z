@@ -58,4 +58,4 @@ Like My Work / Did I help you? 🙂👍
 <br/>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="runtothedoor's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=runtothedoor&bg_color=080a12&color=ffdb59&line=3bd8ff&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="runtothedoor's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=runtothedoor&bg_color=080a12&color=ffdb59&line=3bd8ff&point=FFFFFF&hide_border=true" /></a>
