@@ -24,6 +24,8 @@
 
  > [rotating-cube-demo-babylon-rxn](https://github.com/runtothedoor/rotating-cube-demo-babylon-rxn) </br>🟦 🔄 Cross Platform BabylonJS Simple 3D Cube built with React and React Native.
 
+> [craco-react-native-web-monorepo](https://github.com/runtothedoor/craco-react-native-web-monorepo) </br>Craco + React Native + React Native Web (Monorepo).
+
 > [nextjs-react-native-web-monorepo](https://github.com/runtothedoor/nextjs-react-native-web-monorepo) </br>Next.js + React Native + React Native Web (Monorepo without Expo).
 
 
