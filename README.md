@@ -16,7 +16,7 @@
 
   > [rxn-input](https://github.com/Luffos/rxn-input) </br>🎮 🖱️ ⌨️‎ ‎ Cross-Platform Input Handler for React and React Native.
 
-  > [rxn-grife](https://github.com/Luffos/rxn-grife) </br>🎀 Cross-Platform Programmatic Styling Library for React, React Native and Expo.
+  > [rxn-grife](https://github.com/Luffos/rxn-grife) </br>🎀 Cross-Platform Programmatic Styling Library for React, React Native and Expo. (CSS-in-JS)
 <br/>
 
 🚧ㅤDemos:
