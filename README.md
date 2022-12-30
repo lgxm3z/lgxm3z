@@ -12,7 +12,7 @@
 🌎ㅤPublic projects I've worked on:<br/>
   > [rxn-units](https://github.com/Luffos/rxn-units) </br>📐 Cross-Platform Viewport units (vw, vh, vmin, vmax, percentage) + useUnits hook for React, React Native and Expo.<br/>
 
-  > [rxn-wakelock](https://github.com/Luffos/rxn-wakelock) </br>💤 Cross-Platform WakeLock (Keep Screen Awake) for React, React Native and Expo.<br/>
+  <!-- > [rxn-wakelock](https://github.com/Luffos/rxn-wakelock) </br>💤 Cross-Platform WakeLock (Keep Screen Awake) for React, React Native and Expo.<br/> -->
 
   > [rxn-input](https://github.com/Luffos/rxn-input) </br>🎮 🖱️ ⌨️‎ ‎ Cross-Platform Input Handler for React and React Native.
 
