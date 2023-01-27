@@ -17,8 +17,9 @@
   > [rxn-input](https://github.com/Luffos/rxn-input) </br>🎮 🖱️ ⌨️‎ ‎ Cross-Platform Input Handler for React and React Native.
 
   > ~[rxn-grife](https://github.com/Luffos/rxn-grife) </br>🎀 Cross-Platform Programmatic Styling Library for React, React Native and Expo. (CSS-in-JS)~
-<br/>
 
+  > [rxn-stylestate](https://github.com/Luffos/rxn-stylestate) </br>🖼️ Cross-Platform Simple Style-with-States Utility (for React Native, React Native Web and Expo).
+<br/>
 🚧ㅤDemos:
   <!--- > [piano-demo-babylon-rxn](https://github.com/runtothedoor/piano-demo-babylon-rxn) </br>🎹 Cross Platform BabylonJS 3D Playabel Piano built with React and React Native. --> 
 
