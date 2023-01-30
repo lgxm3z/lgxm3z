@@ -14,7 +14,7 @@
 
   <!-- > [rxn-wakelock](https://github.com/Luffos/rxn-wakelock) </br>💤 Cross-Platform WakeLock (Keep Screen Awake) for React, React Native and Expo.<br/> -->
 
-  > [rxn-input](https://github.com/Luffos/rxn-input) </br>🎮 🖱️ ⌨️‎ ‎ Cross-Platform Input Handler for React and React Native.
+  > [rxn-input](https://github.com/Luffos/rxn-input) </br>🎮 🖱️ ⌨️‎ ‎ Cross-Platform Input Handler for React Native and React Native Web.
 
   > ~[rxn-grife](https://github.com/Luffos/rxn-grife) </br>🎀 Cross-Platform Programmatic Styling Library for React, React Native and Expo. (CSS-in-JS)~
 
