@@ -33,28 +33,6 @@
 
 <br/>
 
-🔌ㅤContributions or community help:
-  > [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) </br> Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework. <br/> [#12537](https://github.com/BabylonJS/Babylon.js/pull/12537)
-
- > [BabylonJS/BabylonReactNative](https://github.com/BabylonJS/BabylonReactNative) </br> Build React Native applications with the power of Babylon Native. <br/> [#449](https://github.com/BabylonJS/BabylonReactNative/pull/449)
-
- > [react-native-community/directory](https://github.com/react-native-community/directory) </br> A searchable and filterable directory of React Native libraries. <br/> [#880](https://github.com/react-native-community/directory/pull/880) [#882](https://github.com/react-native-community/directory/pull/882)
-
-  > [react-native-share/react-native-share](https://github.com/react-native-share/react-native-share) <br/> Social share, sending simple data to other apps.<br/> [#1242](https://github.com/react-native-share/react-native-share/pull/1242)
-
-> [joakimbeng/kebab-case](https://github.com/joakimbeng/kebab-case) <br/> Convert a string to kebab-case, i.e. its dash separated form.<br/> [#9](https://github.com/joakimbeng/kebab-case/pull/9)
-
-  > [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme) <br/> Get the Material Design icons into your VS Code. <br/> [#1672](https://github.com/PKief/vscode-material-icon-theme/pull/1672)
-
-  > [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) <br/> Icons for Visual Studio Code. <br/> [#2234](https://github.com/vscode-icons/vscode-icons/pull/2234)
-
-  > [tauri-apps/tauri](https://github.com/tauri-apps/tauri) </br> Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms. <br/> [#4107](https://github.com/tauri-apps/tauri/pull/4107)
-
-  > [barrsan/react-native-simple-image-cropper](https://github.com/barrsan/react-native-simple-image-cropper) <br/> No description, website, or topics provided.
- <br/> [#34](https://github.com/barrsan/react-native-simple-image-cropper/pull/34)
-
-<br/>
-
 
 Like My Work / Did I help you? 🙂👍
 
