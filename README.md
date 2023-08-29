@@ -37,4 +37,4 @@
 <br/>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="runtothedoor's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=runtothedoor&bg_color=080a12&color=ffdb59&line=3bd8ff&point=FFFFFF&hide_border=true" /></a>
+<img alt="runtothedoor's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=runtothedoor&bg_color=080a12&color=ffdb59&line=3bd8ff&point=FFFFFF&hide_border=true"/>
