@@ -8,7 +8,7 @@
   </div>
 </h2>
 
-🌎ㅤPublic projects I've worked on:<br/>
+🌎ㅤMy public projects:<br/>
   > [rxn-units](https://github.com/Luffos/rxn-units) </br>📐 Cross-Platform Viewport Units (vw, vh, vmin, vmax, percentage) + useUnits hook for React Native, React Native Web and Expo.<br/>
 
   <!-- > [rxn-wakelock](https://github.com/Luffos/rxn-wakelock) </br>💤 Cross-Platform WakeLock (Keep Screen Awake) for React, React Native and Expo.<br/> -->
@@ -23,11 +23,11 @@
 🚧ㅤDemos:
   <!--- > [piano-demo-babylon-rxn](https://github.com/lgxm3z/piano-demo-babylon-rxn) </br>🎹 Cross Platform BabylonJS 3D Playabel Piano built with React and React Native. --> 
 
- > [rotating-cube-demo-babylon-rxn](https://github.com/lgxm3z/rotating-cube-demo-babylon-rxn) </br>🟦 🔄 Cross Platform BabylonJS Simple 3D Cube built with React and React Native.
+  > [rotating-cube-demo-babylon-rxn](https://github.com/lgxm3z/rotating-cube-demo-babylon-rxn) </br>🟦 🔄 Cross Platform BabylonJS Simple 3D Cube built with React and React Native.
 
-> [craco-react-native-web-monorepo](https://github.com/lgxm3z/craco-react-native-web-monorepo) </br>Craco + React Native + React Native Web (Monorepo).
+  <!-- > [craco-react-native-web-monorepo](https://github.com/lgxm3z/craco-react-native-web-monorepo) </br>Craco + React Native + React Native Web (Monorepo). -->
 
-> [nextjs-react-native-web-monorepo](https://github.com/lgxm3z/nextjs-react-native-web-monorepo) </br>Next.js + React Native + React Native Web (Monorepo without Expo).
+  <!-- > [nextjs-react-native-web-monorepo](https://github.com/lgxm3z/nextjs-react-native-web-monorepo) </br>Next.js + React Native + React Native Web (Monorepo without Expo). --> 
 
 
 
