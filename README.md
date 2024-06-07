@@ -39,3 +39,6 @@
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <img alt="lgxm3z's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=lgxm3z&bg_color=080a12&color=ffdb59&line=3bd8ff&point=FFFFFF&hide_border=true"/>
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.1; background: url('https://i.pinimg.com/originals/4c/1e/b0/4c1eb0b6858419e117a42ab018094f1e.gif');]{x0000}$}
