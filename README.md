@@ -41,4 +41,4 @@
 <img alt="lgxm3z's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=lgxm3z&bg_color=080a12&color=ffdb59&line=3bd8ff&point=FFFFFF&hide_border=true"/>
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; width: 130vw; opacity: 0.1; background: url('https://github.com/lgxm3z/lgxm3z/assets/28831375/00e69fc6-3981-4b0b-bd62-f71b83f2bf8c');background-size: cover; background-repeat: no-repeat;background-position:bottom;]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; width: 130vw; opacity: 0.3; background: url('https://github.com/lgxm3z/lgxm3z/assets/28831375/00e69fc6-3981-4b0b-bd62-f71b83f2bf8c');background-size: cover; background-repeat: no-repeat;background-position:bottom;]{x0000}$}
