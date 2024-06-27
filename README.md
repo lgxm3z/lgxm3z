@@ -1,10 +1,7 @@
 
 <h2>
   <div align="center">
-    Hello folks, I'm Gomes!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
-    <br/> <br/>
-    <img width="100%" height="230px" src="https://github-readme-stats.vercel.app/api?username=lgxm3z&hide=stars&show_icons=true&hide_border=true&show=discussions_started&bg_color=00000000&icon_color=58a6ff&text_color=FFFFFF&title_color=58a6ff"/>
+    <img width="100%" height="300px" src="https://github-readme-stats.vercel.app/api?username=lgxm3z&hide=stars&show_icons=true&hide_border=true&show=discussions_started&bg_color=00000000&icon_color=58a6ff&text_color=FFFFFF&title_color=58a6ff"/>
   </div>
 </h2>
 
